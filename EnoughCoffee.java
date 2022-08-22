@@ -21,7 +21,7 @@ public class EnoughCoffee {
             System.out.println("I can make that amount of coffee");
         }
         if (waterRemain <  (200 * cupsWanted) || milkRemain < (25 * cupsWanted) || beansCoffeeRemain < (15 * cupsWanted)) {
-        System.out.println("I can´t make any cup of coffee");
+        System.out.println("I cannot make this amount of coffee");
         }
 
         
