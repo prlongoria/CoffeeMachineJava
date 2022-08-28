@@ -8,6 +8,12 @@ class CoffeeMachine {
         System.out.println("Pouring coffee into the cup");
         System.out.println("Pouring some milk into the cup");
         System.out.println("Coffee is ready!");
+        
+        int water = 0;
+        int milk = 0;
+        int coffeeBeans = 0;
+        int disposableCups = 0;
+        int money = 0;
     }
 } 
 // Print in terminal:
