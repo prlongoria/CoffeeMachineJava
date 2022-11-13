@@ -1,2 +1,2 @@
 # CoffeeMachineJava
-iIrst Java project in Bootcamp
+First Java project in Bootcamp
